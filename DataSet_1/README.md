@@ -1,6 +1,6 @@
 # Exploration
 
-### Thirty distinct question:
+### Thirty distinct questions:
 ### Our original five questions
 1) What kind of new vehicles are being bought by consumers? 
 2) What can be some reasons that types of vehicles are being bought as compared to other niche types? 
