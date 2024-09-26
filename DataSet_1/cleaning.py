@@ -4,7 +4,7 @@ import plotly.graph_objects as go #tables and charts in a browser
 import seaborn as sns #bar plots and heatmaps
 
 
-df = pd.read_csv('car_prices.csv') #loads the CSV file with the correct path
+df = pd.read_csv('DataSet_1/car_prices.csv') #loads the CSV file with the correct path
 
 
 
