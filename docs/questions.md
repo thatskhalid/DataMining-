@@ -1,5 +1,3 @@
-# Exploration
-
 ### Thirty distinct questions:
 ### Our original five questions
 1) What kind of new vehicles are being bought by consumers? 
