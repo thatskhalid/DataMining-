@@ -6,6 +6,8 @@
 4) What demographics are interested in what kind of car: this can include age, location, income, etc?
 5) Top selling vehicles per state or region?
 
+# Remainign 30 Questions
+
 6) Is there a correlation between make and condition?
 7) Are there hybrids being sold? And is there a correlation between price versus non-hybrids?
 8) If the data includes number of previous owners, does this affect price?
