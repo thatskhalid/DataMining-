@@ -24,9 +24,9 @@
 19) Does a type of vehicle affect its selling price?
 20) Does a vehicle's color impact its value?
 21) What models are the most popular based on year?
-22) Can the time of year affect a vehicle's price?
+22) Do different vehicle types have different average price points?
 23) How much of a difference does trim level affect price?
-24) Before being sold, what is the average number of years a vehicle is in use for?
+24) What is the distrubtion of vehicle brands in the different conditions?
 25) Is there a trend of what vehicles are sold based on region, for example urban vs rural?
 26) What are the most popular colors being sold?
 27) What is the average mileage on vehicles being sold across different regions?
