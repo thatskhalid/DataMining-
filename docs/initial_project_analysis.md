@@ -7,5 +7,5 @@
 3) Q1: What determines a vehicle condition, and is there correlation between selling price and condition?
    Q2: Are vehicle preferences uniform in the state of California, or even between other nearby states? How does region have an impact?
    Q3: How much does depreciation affect a certain car brand with factors such as mileage, condition, and year built?
-   Q4: Utilziing the selling date, have popular models trended upwards in price? 
+   Q4: Utilzing the selling date, have popular models trended upwards in price? 
    Q5: Similar to a previous question, how much of a difference do certain variables have on price, for example: make, mileage? 
