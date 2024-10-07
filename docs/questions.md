@@ -1,4 +1,4 @@
-### Thirty distinct questions:
+# Thirty distinct questions:
 ### Our original five questions
 1) What kind of new vehicles are being bought by consumers? 
 2) What can be some reasons that types of vehicles are being bought as compared to other niche types? 
@@ -6,7 +6,7 @@
 4) What demographics are interested in what kind of car: this can include age, location, income, etc?
 5) Top selling vehicles per state or region?
 
-# Remainign 30 Questions
+### Remaining 30 Questions
 
 6) Is there a correlation between make and condition?
 7) Are there hybrids being sold? And is there a correlation between price versus non-hybrids?
