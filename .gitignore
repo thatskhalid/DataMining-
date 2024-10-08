@@ -1,1 +1,21 @@
-.csv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/cleaned/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Mac system files
+.DS_Store
