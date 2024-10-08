@@ -1,4 +1,4 @@
-import cleaning  # Import cleaning module
+import archive.cleaning as cleaning  # Import cleaning module
 from CustomKMeans import CustomKMeans  # Import custom KMeans class
 import matplotlib.pyplot as plt
 
