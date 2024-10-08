@@ -1,6 +1,7 @@
-#Data source: Kaggle.com
-#link: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+### Welcome to Data
 
-#Scripts will clean the raw CSV and transform it into the cleaned folder
+Data source: Kaggle.com
+link: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+Scripts will clean the raw CSV and transform it into the cleaned folder
 
-#WIP
+
