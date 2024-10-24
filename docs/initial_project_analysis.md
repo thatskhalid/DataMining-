@@ -1,0 +1,11 @@
+# Write Up
+
+1) In terms of cleaning the code, we came up with the cleaning.py file to do some regular cleanup. First we removed rows with missing values, then filled any missing values with a zero. We also had a line of code that removed any potential duplicates. In the same file we also had our initial analysis plot. This initial analysis was a basic chart that gave us a better visual of our data, for sake of simplicity we only showed the first ten entries. Our next plot was a bar graph that showcased type of vehicle makes being bought as well as the highest selling models.
+
+2) The following were a couple observations we made when first analyzing our chart. We determined that in the state of California, the most bought vehicle make was Nissan, and their top selling model was the Nissan Altima at almost 20,000 vehciles sold. In a near second place, Ford would be the next popular make with the F-150 being sold at a staggering 15,000 units with the fusion being close behind. The third most popular make would be Toyota, with the Cmary being the most popular from their lineup at about 12,500 units sold. Every other vehicle brand trailed behind these three, namely Honda, BMW, Dodge, and Chevrolet. One interesting observation we made with our data being represented as a table was the data's classification of "condition." Each vehicle was assigned a condition between 0 and 50. After reviewing some documentation from the original author, we could not determine how exactly condition was measured. We aim to further analyze this.
+
+3) Q1: What determines a vehicle condition, and is there correlation between selling price and condition?
+   Q2: Are vehicle preferences uniform in the state of California, or even between other nearby states? How does region have an impact?
+   Q3: How much does depreciation affect a certain car brand with factors such as mileage, condition, and year built?
+   Q4: Utilzing the selling date, have popular models trended upwards in price? 
+   Q5: Similar to a previous question, how much of a difference do certain variables have on price, for example: make, mileage? 
